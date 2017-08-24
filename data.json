@@ -1,0 +1,202 @@
+{
+     "items": [
+          {
+               "description": "chips of type plain",
+               "cost": 50,
+               "quantity": 4,
+               "id": 1
+          },
+          {
+               "id": 2,
+               "description": "Chex Mix",
+               "cost": 75,
+               "quantity": 10
+          },
+          {
+               "description": "food",
+               "cost": 50,
+               "quantity": 1,
+               "id": 4
+          },
+          {
+               "description": "food",
+               "cost": 50,
+               "quantity": 4,
+               "id": 4
+          },
+          {
+               "description": "food",
+               "cost": 50,
+               "quantity": 3,
+               "id": 5
+          },
+          {
+               "description": "food",
+               "cost": 50,
+               "quantity": 4,
+               "id": 6
+          },
+          {
+               "description": "food",
+               "cost": 50,
+               "quantity": 4,
+               "id": 7
+          },
+          {
+               "description": "food",
+               "cost": 50,
+               "quantity": 4,
+               "id": 8
+          },
+          {
+               "description": "food",
+               "cost": 50,
+               "quantity": 4,
+               "id": 9
+          },
+          {
+               "description": "food",
+               "cost": 50,
+               "quantity": 4,
+               "id": 10
+          },
+          {
+               "description": "food",
+               "cost": 50,
+               "quantity": 0,
+               "id": 11
+          },
+          {
+               "description": "food",
+               "cost": 50,
+               "quantity": 4,
+               "id": 12
+          },
+          {
+               "description": "food",
+               "cost": 50,
+               "quantity": 4,
+               "id": 13
+          },
+          {
+               "description": "food",
+               "cost": 50,
+               "quantity": 4,
+               "id": 14
+          },
+          {
+               "description": "food",
+               "cost": 50,
+               "quantity": 4,
+               "id": 15
+          },
+          {
+               "description": "food",
+               "cost": 50,
+               "quantity": 4,
+               "id": 16
+          },
+          {
+               "description": "food",
+               "cost": 50,
+               "quantity": 4,
+               "id": 17
+          },
+          {
+               "description": "food",
+               "cost": 50,
+               "quantity": 4,
+               "id": 18
+          },
+          {
+               "description": "food",
+               "cost": 50,
+               "quantity": 4,
+               "id": 19
+          },
+          {
+               "description": "food",
+               "cost": 50,
+               "quantity": 4,
+               "id": 20
+          }
+     ],
+     "purchases": [
+          {
+               "item_purchased": "",
+               "price": 0,
+               "date": ""
+          },
+          {
+               "item_purchased": "food",
+               "price": 50,
+               "date": "Thursday, Aug 24th 2017, 4:05 pm"
+          },
+          {
+               "item_purchased": "food",
+               "price": 50,
+               "date": "dddd, MMMMM Do YYY, h:mm a"
+          },
+          {
+               "item_purchased": "food",
+               "price": 50,
+               "date": "Thursday, Aug 24th 2017, 4:05 pm"
+          },
+          {
+               "item_purchased": "food",
+               "price": 50,
+               "date": "Thursday, Aug 24th 2017, 4:06 pm"
+          },
+          {
+               "item_purchased": "food",
+               "price": 50,
+               "date": "dddd, MMMMM Do YYY, h:mm a"
+          },
+          {
+               "item_purchased": "food",
+               "price": 50,
+               "date": "Thursday, Aug 24th 2017, 4:06 pm"
+          },
+          {
+               "item_purchased": "food",
+               "price": 50,
+               "date": "Thursday, Aug 24th 2017, 4:06 pm"
+          },
+          {
+               "item_purchased": "food",
+               "price": 50,
+               "date": "dddd, MMMMM Do YYY, h:mm a"
+          },
+          {
+               "item_purchased": "food",
+               "price": 50,
+               "date": "Thursday, Aug 24th 2017, 4:06 pm"
+          },
+          {
+               "item_purchased": "food",
+               "price": 50,
+               "date": "Thursday, Aug 24th 2017, 4:07 pm"
+          },
+          {
+               "item_purchased": "food",
+               "price": 50,
+               "date": "dddd, MMMMM Do YYY, h:mm a"
+          },
+          {
+               "item_purchased": "food",
+               "price": 50,
+               "date": "Thursday, Aug 24th 2017, 4:07 pm"
+          },
+          {
+               "item_purchased": "food",
+               "price": 50,
+               "date": "dddd, MMMMM Do YYY, h:mm a"
+          },
+          {
+               "item_purchased": "food",
+               "price": 50,
+               "date": "Thursday, Aug 24th 2017, 4:08 pm"
+          }
+     ],
+     "money": 700
+}

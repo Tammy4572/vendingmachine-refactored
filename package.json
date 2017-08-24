@@ -1,0 +1,21 @@
+{
+  "name": "vendingmachine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "config": "^1.26.2",
+    "express": "^4.15.3",
+    "file-system": "^2.2.2",
+    "mocha": "^3.4.2",
+    "moment": "^2.10.0",
+    "supertest": "^3.0.0"
+  }
+}
